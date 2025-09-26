@@ -1,0 +1,10 @@
+# Ignore the generated features (.pkl files) 
+*.pkl
+
+# Ignore text files 
+# The selected connectivity metric is stored as in a .txt file by default
+*.txt 
+
+# Ignore notebook checkpooints and python bytecode cache
+__pycache__/
+.ipynb_checkpoints/
