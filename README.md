@@ -81,7 +81,7 @@ KnowEEGRepo/
     ├── Train_Model_Fusion_Forest.ipynb  # Jupyter Notebook to train the final Fusion Forest model
     ├── Fusion_Forest_Functions.py       # Helper functions for the Fusion Forest model
     └── Train_Model_RF.ipynb             # Jupyter Notebook to train final Random Forest Model (Alternative to Fusion Forest)
-    <pre>
+    </pre>
 
 ---
 
