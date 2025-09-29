@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 
-This repository contains the implementation for the paper **"KnowEEG: Explainable Knowledge Driven EEG Classification"**. <br>
+The implementation for the paper **"KnowEEG: Explainable Knowledge Driven EEG Classification"**. <br>
 KnowEEG is a novel, feature-based machine learning pipeline that achieves state-of-the-art performance on EEG classification tasks while providing full model explainability.
 
 
